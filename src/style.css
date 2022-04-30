@@ -314,3 +314,12 @@ nav a:hover {
     display: none;
   }
 }
+.gallery {
+  display: flex;
+  align-items: center;
+}
+.text {
+  font-size: 30px;
+  padding: 2rem;
+  background-color: rgba(66, 63, 63, 0.331);
+}
